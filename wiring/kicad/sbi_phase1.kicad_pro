@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "filename": "sbi_phase1.kicad_pro",
+    "version": 1
+  },
+  "sheets": [
+    [
+      "e33b6886-2108-5cd0-90e2-2265bbbbfabd",
+      "Root"
+    ]
+  ],
+  "boards": [],
+  "libraries": {
+    "pinned_symbol_libs": []
+  }
+}

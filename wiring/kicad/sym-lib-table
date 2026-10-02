@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sbi_phase1")(type "KiCad")(uri "${KIPRJMOD}/sbi_phase1.kicad_sym")(options "")(descr "SBI drone system-level blocks"))
+)

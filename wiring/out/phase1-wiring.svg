@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1540" height="1060" viewBox="0 0 1540 1060">
+<rect width="1540" height="1060" fill="#FFFFFF"/>
+<rect x="40" y="245" width="220" height="90" rx="8" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="150" y="267" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#C62828" text-anchor="middle">Battery</text>
+<text x="150" y="284" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">OVONIC 6S 5000 mAh 130C</text>
+<text x="150" y="297.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">XT60</text>
+<rect x="400" y="220" width="440" height="470" rx="8" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<rect x="412" y="276" width="120" height="28" rx="4" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="472" y="293.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#C62828" text-anchor="middle">XT60 lead</text>
+<rect x="412" y="420" width="100" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="462" y="437.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">PWR2</text>
+<rect x="412" y="460" width="230" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="527" y="477.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">I/O PWM-in + M1–M8 holes</text>
+<rect x="412" y="500" width="150" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="487" y="517.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">CAP&amp;ADC in / out</text>
+<rect x="412" y="540" width="150" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="487" y="557.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">PWM-out ch 5–8</text>
+<rect x="700" y="262" width="130" height="24" rx="4" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="765" y="277.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#C62828" text-anchor="middle">M1-corner pads</text>
+<rect x="700" y="294" width="130" height="24" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="765" y="309.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">PWM-out ch 1</text>
+<rect x="960" y="250" width="200" height="80" rx="8" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="1060" y="272" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#C62828" text-anchor="middle">ESC 1</text>
+<text x="1060" y="289" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">XRotor PRO 50A</text>
+<text x="1060" y="302.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">4–6S · no BEC</text>
+<rect x="1290" y="250" width="220" height="80" rx="8" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1400" y="272" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#546E7A" text-anchor="middle">Motor 1 · front-right</text>
+<text x="1400" y="289" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">Avenger 3110 730KV</text>
+<text x="1400" y="302.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">CCW · prop 10x4.5 (CCW)</text>
+<rect x="700" y="362" width="130" height="24" rx="4" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="765" y="377.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#C62828" text-anchor="middle">M2-corner pads</text>
+<rect x="700" y="394" width="130" height="24" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="765" y="409.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">PWM-out ch 2</text>
+<rect x="960" y="350" width="200" height="80" rx="8" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="1060" y="372" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#C62828" text-anchor="middle">ESC 2</text>
+<text x="1060" y="389" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">XRotor PRO 50A</text>
+<text x="1060" y="402.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">4–6S · no BEC</text>
+<rect x="1290" y="350" width="220" height="80" rx="8" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1400" y="372" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#546E7A" text-anchor="middle">Motor 2 · rear-left</text>
+<text x="1400" y="389" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">Avenger 3110 730KV</text>
+<text x="1400" y="402.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">CCW · prop 10x4.5 (CCW)</text>
+<rect x="700" y="462" width="130" height="24" rx="4" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="765" y="477.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#C62828" text-anchor="middle">M3-corner pads</text>
+<rect x="700" y="494" width="130" height="24" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="765" y="509.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">PWM-out ch 3</text>
+<rect x="960" y="450" width="200" height="80" rx="8" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="1060" y="472" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#C62828" text-anchor="middle">ESC 3</text>
+<text x="1060" y="489" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">XRotor PRO 50A</text>
+<text x="1060" y="502.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">4–6S · no BEC</text>
+<rect x="1290" y="450" width="220" height="80" rx="8" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1400" y="472" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#546E7A" text-anchor="middle">Motor 3 · front-left</text>
+<text x="1400" y="489" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">Avenger 3110 730KV</text>
+<text x="1400" y="502.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">CW · prop 10x4.5R (CW)</text>
+<rect x="700" y="562" width="130" height="24" rx="4" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="765" y="577.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#C62828" text-anchor="middle">M4-corner pads</text>
+<rect x="700" y="594" width="130" height="24" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="765" y="609.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">PWM-out ch 4</text>
+<rect x="960" y="550" width="200" height="80" rx="8" fill="#FDECEA" stroke="#C62828" stroke-width="1.6"/>
+<text x="1060" y="572" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#C62828" text-anchor="middle">ESC 4</text>
+<text x="1060" y="589" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">XRotor PRO 50A</text>
+<text x="1060" y="602.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">4–6S · no BEC</text>
+<rect x="1290" y="550" width="220" height="80" rx="8" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1400" y="572" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#546E7A" text-anchor="middle">Motor 4 · rear-right</text>
+<text x="1400" y="589" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">Avenger 3110 730KV</text>
+<text x="1400" y="602.5" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">CW · prop 10x4.5R (CW)</text>
+<rect x="412" y="640" width="100" height="28" rx="4" fill="#FFF3E0" stroke="#EF6C00" stroke-width="1.6"/>
+<text x="462" y="657.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#EF6C00" text-anchor="middle">PWR1</text>
+<rect x="530" y="640" width="120" height="28" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="590" y="657.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">FMU PWM-in</text>
+<rect x="380" y="740" width="600" height="290" rx="8" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<rect x="412" y="780" width="100" height="28" rx="4" fill="#FFF3E0" stroke="#EF6C00" stroke-width="1.6"/>
+<text x="462" y="797.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#EF6C00" text-anchor="middle">POWER1</text>
+<rect x="530" y="780" width="120" height="28" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="590" y="797.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">FMU PWM OUT</text>
+<rect x="392" y="840" width="100" height="28" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="442" y="857.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">GPS1</text>
+<rect x="392" y="930" width="100" height="28" rx="4" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="442" y="947.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#1565C0" text-anchor="middle">TELEM3</text>
+<rect x="520" y="840" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="590" y="857.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">POWER2</text>
+<rect x="670" y="840" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="740" y="857.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">TELEM1</text>
+<rect x="820" y="840" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="890" y="857.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">TELEM2</text>
+<rect x="520" y="880" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="590" y="897.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">GPS2</text>
+<rect x="670" y="880" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="740" y="897.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">I2C</text>
+<rect x="820" y="880" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="890" y="897.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">CAN1</text>
+<rect x="520" y="920" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="590" y="937.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">CAN2</text>
+<rect x="670" y="920" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="740" y="937.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">I/O PWM OUT</text>
+<rect x="820" y="920" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="890" y="937.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">PPM/SBUS RC</text>
+<rect x="520" y="960" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="590" y="977.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">DSM RC</text>
+<rect x="670" y="960" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="740" y="977.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">SBUS OUT</text>
+<rect x="820" y="960" width="140" height="28" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="890" y="977.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">USB</text>
+<rect x="40" y="824" width="220" height="60" rx="8" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="150" y="846" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#1565C0" text-anchor="middle">GPS + compass</text>
+<text x="150" y="863" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">Holybro M10 · IST8310</text>
+<rect x="40" y="914" width="220" height="60" rx="8" fill="#E8F1FC" stroke="#1565C0" stroke-width="1.6"/>
+<text x="150" y="936" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#1565C0" text-anchor="middle">ELRS receiver</text>
+<text x="150" y="953" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#546E7A" text-anchor="middle">RadioMaster RP3-H · CRSF</text>
+<rect x="40" y="30" width="420" height="180" rx="8" fill="#FFFDF2" stroke="#B08D00" stroke-width="1.6"/>
+<rect x="62" y="144" width="50" height="20" rx="4" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="1180" y="30" width="330" height="180" rx="8" fill="#FFFDF2" stroke="#B08D00" stroke-width="1.6"/>
+<rect x="1200" y="72" width="90" height="36" rx="18" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1245" y="93.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">M3 · CW</text>
+<rect x="1400" y="72" width="90" height="36" rx="18" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1445" y="93.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">M1 · CCW</text>
+<rect x="1200" y="158" width="90" height="36" rx="18" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1245" y="179.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">M2 · CCW</text>
+<rect x="1400" y="158" width="90" height="36" rx="18" fill="#ECEFF1" stroke="#546E7A" stroke-width="1.6"/>
+<text x="1445" y="179.96" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#546E7A" text-anchor="middle">M4 · CW</text>
+<rect x="1020" y="690" width="490" height="320" rx="8" fill="#FFFDF2" stroke="#B08D00" stroke-width="1.6"/>
+<path d="M 260 290 L 403.9 290" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 412 290 L 398.5 296.6 L 398.5 283.4 z" fill="#C62828"/>
+<text x="336" y="284" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#C62828" text-anchor="middle">XT60</text>
+<path d="M 830 274 L 951.9 274" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 274 L 946.5 280.6 L 946.5 267.4 z" fill="#C62828"/>
+<text x="895" y="268" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#C62828" text-anchor="middle">B+ / GND, solder</text>
+<path d="M 830 306 L 954.6 306" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 306 L 951 310.4 L 951 301.6 z" fill="#1565C0"/>
+<text x="895" y="300" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#1565C0" text-anchor="middle">signal + GND</text>
+<path d="M 1160 290 L 1281.9 290" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1290 290 L 1276.5 296.6 L 1276.5 283.4 z" fill="#C62828"/>
+<text x="1225" y="284" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#C62828" text-anchor="middle">3 phase leads</text>
+<path d="M 830 374 L 951.9 374" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 374 L 946.5 380.6 L 946.5 367.4 z" fill="#C62828"/>
+<path d="M 830 406 L 954.6 406" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 406 L 951 410.4 L 951 401.6 z" fill="#1565C0"/>
+<path d="M 1160 390 L 1281.9 390" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1290 390 L 1276.5 396.6 L 1276.5 383.4 z" fill="#C62828"/>
+<path d="M 830 474 L 951.9 474" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 474 L 946.5 480.6 L 946.5 467.4 z" fill="#C62828"/>
+<path d="M 830 506 L 954.6 506" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 506 L 951 510.4 L 951 501.6 z" fill="#1565C0"/>
+<path d="M 1160 490 L 1281.9 490" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1290 490 L 1276.5 496.6 L 1276.5 483.4 z" fill="#C62828"/>
+<path d="M 830 574 L 951.9 574" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 574 L 946.5 580.6 L 946.5 567.4 z" fill="#C62828"/>
+<path d="M 830 606 L 954.6 606" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960 606 L 951 610.4 L 951 601.6 z" fill="#1565C0"/>
+<path d="M 1160 590 L 1281.9 590" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1290 590 L 1276.5 596.6 L 1276.5 583.4 z" fill="#C62828"/>
+<path d="M 462 668 L 462 771.9" fill="none" stroke="#EF6C00" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 462 780 L 455.4 766.5 L 468.6 766.5 z" fill="#EF6C00"/>
+<text x="400" y="719" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#EF6C00" text-anchor="middle">5 V + V/I sense</text>
+<path d="M 590 780 L 590 673.4" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590 668 L 594.4 677 L 585.6 677 z" fill="#1565C0"/>
+<text x="668" y="719" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#1565C0" text-anchor="middle">AUX 1–4, 10-pin</text>
+<path d="M 260 854 L 386.6 854" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 392 854 L 383 858.4 L 383 849.6 z" fill="#1565C0"/>
+<text x="326" y="848" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#1565C0" text-anchor="middle">10-pin cable</text>
+<path d="M 260 944 L 386.6 944" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 392 944 L 383 948.4 L 383 939.6 z" fill="#1565C0"/>
+<text x="326" y="938" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#1565C0" text-anchor="middle">custom cable</text>
+<path d="M 62 82 L 112 82" fill="none" stroke="#C62828" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 62 106 L 112 106" fill="none" stroke="#EF6C00" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 62 130 L 112 130" fill="none" stroke="#1565C0" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="420" y="246" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="bold" fill="#C62828" text-anchor="start">PM07 power module + PDB</text>
+<text x="420" y="263" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-weight="normal" fill="#607D8B" text-anchor="start">Holybro SKU 15008 · 2–12S in</text>
+<text x="420" y="336" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#607D8B" text-anchor="start">Lead: 12 AWG, 30 A cont. / 60 A &lt; 1 min</text>
+<text x="420" y="352" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#607D8B" text-anchor="start">PCB: 90 A cont. / 140 A burst (&lt; 60 s)</text>
+<text x="420" y="368" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#607D8B" text-anchor="start">5.2 V / 3 A regulator feeds PWR1</text>
+<text x="680" y="772" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="bold" fill="#1565C0" text-anchor="start">Flight controller: Pixhawk 6C</text>
+<text x="680" y="790" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-weight="normal" fill="#607D8B" text-anchor="start">Plastic · SKU 11054 · ArduPilot</text>
+<text x="680" y="1014" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" font-style="italic" fill="#455A64" text-anchor="middle">Dashed: empty in Phase 1. Debug ports not used.</text>
+<text x="500" y="56" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#263238" text-anchor="start">SBI drone, Phase 1: power and signal wiring</text>
+<text x="500" y="80" font-family="Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" font-style="italic" fill="#607D8B" text-anchor="start">Battery disconnected for all assembly and continuity checks.</text>
+<text x="500" y="100" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#607D8B" text-anchor="start">Pixhawk 6C + PM07 · 6S · ArduPilot Quad X · as of 2026-09-30</text>
+<text x="60" y="56" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#5D4037" text-anchor="start">Legend</text>
+<text x="124" y="86" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#4E342E" text-anchor="start">battery voltage, + / - pair</text>
+<text x="124" y="110" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#4E342E" text-anchor="start">regulated 5 V + battery sense</text>
+<text x="124" y="134" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#4E342E" text-anchor="start">signal: PWM, serial, I2C</text>
+<text x="124" y="158" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#4E342E" text-anchor="start">port intentionally empty</text>
+<text x="62" y="192" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" font-style="italic" fill="#795548" text-anchor="start">Grounds omitted. Arrow = direction of supply or signal.</text>
+<text x="1200" y="54" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#5D4037" text-anchor="start">Motor map, top view</text>
+<text x="1345" y="120" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#455A64" text-anchor="middle">▲ FRONT</text>
+<text x="1345" y="138" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" font-style="italic" fill="#455A64" text-anchor="middle">Quad X</text>
+<text x="1040" y="716" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#5D4037" text-anchor="start">Checked against</text>
+<text x="1040" y="744" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  Labels: SBI_Drone_Phase1_Parts.xlsx (2026-09-30).</text>
+<text x="1040" y="766" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  Ports: Holybro Pixhawk 6C ports page, PM07 guide.</text>
+<text x="1040" y="788" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  ESCs on AUX 1–4: SERVO9–12_FUNCTION = 33–36.</text>
+<text x="1040" y="810" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  RC on TELEM3 = SERIAL5, SERIAL5_PROTOCOL = 23.</text>
+<text x="1040" y="832" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  Motor map: ArduPilot Quad X. Confirm props-off.</text>
+<text x="1040" y="854" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  Spin direction: each ESC's DIP switch.</text>
+<text x="1040" y="876" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  PM07 pads sit at the board corners, not by the header.</text>
+<text x="1040" y="898" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  ESC power lead gauge: TBD.</text>
+<text x="1040" y="920" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  PM07 XT60 lead: 30 A cont. (Holybro). Check logs.</text>
+<text x="1040" y="942" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  M10 V2 has no safety switch or buzzer: check unit.</text>
+<text x="1040" y="964" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  Phase 2: TELEM2 companion computer.</text>
+<text x="1040" y="986" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#4E342E" text-anchor="start">•  TELEM1 kept for an optional SiK radio.</text>
+</svg>

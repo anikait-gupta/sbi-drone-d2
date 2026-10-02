@@ -1,0 +1,17 @@
+# Intermediate files that wiring/build.py regenerates on every run
+wiring/out/net.xml
+wiring/out/erc.json
+
+# KiCad per-user and temporary files
+*.kicad_prl
+*-backups/
+*.lck
+fp-info-cache
+_autosave-*
+
+# Python
+__pycache__/
+*.pyc
+
+# Office lock files
+~$*

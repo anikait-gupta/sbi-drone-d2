@@ -1,0 +1,92 @@
+# Expected nets for sbi_phase1.kicad_sch. One net per line: NAME: REF.PIN REF.PIN ...
+# Bootstrapped from the schematic on 2026-09-30, then reviewed by hand against
+# wiring-table.md: conductors P1-P9, F1 and S1-S7 all match, and no net is unlabelled.
+# Change a wiring fact here only after changing it in wiring-table.md.
+AUX1_PWM: J2.FIN_CH1 J11.FMU_2
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH1_FIN_CH1, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 2:FMU_CH1_FMU_2
+AUX2_PWM: J2.FIN_CH2 J11.FMU_3
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH2_FIN_CH2, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 3:FMU_CH2_FMU_3
+AUX3_PWM: J2.FIN_CH3 J11.FMU_4
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH3_FIN_CH3, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 4:FMU_CH3_FMU_4
+AUX4_PWM: J2.FIN_CH4 J11.FMU_5
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH4_FIN_CH4, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 5:FMU_CH4_FMU_5
+AUX5_PWM: J2.FIN_CH5 J11.FMU_6
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH5_FIN_CH5, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 6:FMU_CH5_FMU_6
+AUX6_PWM: J2.FIN_CH6 J11.FMU_7
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH6_FIN_CH6, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 7:FMU_CH6_FMU_7
+AUX7_PWM: J2.FIN_CH7 J11.FMU_8
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH7_FIN_CH7, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 8:FMU_CH7_FMU_8
+AUX8_PWM: J2.FIN_CH8 J11.FMU_9
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CH8_FIN_CH8, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 9:FMU_CH8_FMU_9
+BATT_CURR: J2.PWR1_CUR J11.POWER1_3
+  # J2 PM07 power module + PDB (Holybro SKU 15008) CURRENT_PWR1_CUR, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 3:CURRENT_POWER1_3
+BATT_VOLT: J2.PWR1_VOLT J11.POWER1_4
+  # J2 PM07 power module + PDB (Holybro SKU 15008) VOLTAGE_PWR1_VOLT, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 4:VOLTAGE_POWER1_4
+BAT_N: J1.BATN J2.XT60N
+  # J1 Battery: OVONIC 6S 5000 mAh 130C, XT60 BAT-_BATN, J2 PM07 power module + PDB (Holybro SKU 15008) XT60-_XT60N
+BAT_P: J1.BATP J2.XT60P
+  # J1 Battery: OVONIC 6S 5000 mAh 130C, XT60 BAT+_BATP, J2 PM07 power module + PDB (Holybro SKU 15008) XT60+_XT60P
+BUZZER: J11.GPS1_9 J12.9
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 9:BUZZER-_GPS1_9, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 9:BUZZER-(V1)_9
+ELRS_5V: J11.TELEM3_1 J13.5V
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 1:VCC_TELEM3_1, J13 ELRS receiver: RadioMaster RP3-H (on TELEM3) 5V_5V
+ELRS_RX: J11.TELEM3_2 J13.RX
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 2:USART2_TX(out)_TELEM3_2, J13 ELRS receiver: RadioMaster RP3-H (on TELEM3) RX_RX
+ELRS_TX: J11.TELEM3_3 J13.TX
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 3:USART2_RX(in)_TELEM3_3, J13 ELRS receiver: RadioMaster RP3-H (on TELEM3) TX_TX
+FC_5V: J2.PWR1_VCC J11.POWER1_1
+  # J2 PM07 power module + PDB (Holybro SKU 15008) VCC_PWR1_VCC, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 1-2:VDD5V_BRICK_POWER1_1
+GND: J2.BN J2.FIN_GND J2.OUT_GND J2.PWR1_GND J3.SGND J3.VN J4.SGND J4.VN J5.SGND J5.VN J6.SGND J6.VN J11.FMU_10 J11.GPS1_10 J11.POWER1_5 J11.TELEM3_6 J12.10 J13.GND
+  # J2 PM07 power module + PDB (Holybro SKU 15008) GND_BN, J2 PM07 power module + PDB (Holybro SKU 15008) GND_FIN_GND, J2 PM07 power module + PDB (Holybro SKU 15008) -row_OUT_GND, J2 PM07 power module + PDB (Holybro SKU 15008) GND_PWR1_GND, J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A SIG-GND_SGND, J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A V-_VN, J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A SIG-GND_SGND, J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A V-_VN, J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A SIG-GND_SGND, J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A V-_VN, J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A SIG-GND_SGND, J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A V-_VN, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 10:GND_FMU_10, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 10:GND_GPS1_10, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 5-6:GND_POWER1_5, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 6:GND_TELEM3_6, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 10:GND_10, J13 ELRS receiver: RadioMaster RP3-H (on TELEM3) GND_GND
+GPS_5V: J11.GPS1_1 J12.1
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 1:VCC_GPS1_1, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 1:VCC_5V_1
+GPS_RX: J11.GPS1_2 J12.2
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 2:TX1(out)_GPS1_2, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 2:RX_2
+GPS_TX: J11.GPS1_3 J12.3
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 3:RX1(in)_GPS1_3, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 3:TX_3
+M1_A: J3.A J7.A
+  # J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A A_A, J7 Motor 1 front-right CCW: Avenger 3110 730KV A_A
+M1_B: J3.B J7.B
+  # J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A B_B, J7 Motor 1 front-right CCW: Avenger 3110 730KV B_B
+M1_C: J3.C J7.C
+  # J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A C_C, J7 Motor 1 front-right CCW: Avenger 3110 730KV C_C
+M2_A: J4.A J8.A
+  # J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A A_A, J8 Motor 2 rear-left CCW: Avenger 3110 730KV A_A
+M2_B: J4.B J8.B
+  # J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A B_B, J8 Motor 2 rear-left CCW: Avenger 3110 730KV B_B
+M2_C: J4.C J8.C
+  # J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A C_C, J8 Motor 2 rear-left CCW: Avenger 3110 730KV C_C
+M3_A: J5.A J9.A
+  # J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A A_A, J9 Motor 3 front-left CW: Avenger 3110 730KV A_A
+M3_B: J5.B J9.B
+  # J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A B_B, J9 Motor 3 front-left CW: Avenger 3110 730KV B_B
+M3_C: J5.C J9.C
+  # J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A C_C, J9 Motor 3 front-left CW: Avenger 3110 730KV C_C
+M4_A: J6.A J10.A
+  # J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A A_A, J10 Motor 4 rear-right CW: Avenger 3110 730KV A_A
+M4_B: J6.B J10.B
+  # J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A B_B, J10 Motor 4 rear-right CW: Avenger 3110 730KV B_B
+M4_C: J6.C J10.C
+  # J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A C_C, J10 Motor 4 rear-right CW: Avenger 3110 730KV C_C
+MAG_SCL: J11.GPS1_4 J12.4
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 4:SCL1_GPS1_4, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 4:SCL_4
+MAG_SDA: J11.GPS1_5 J12.5
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 5:SDA1_GPS1_5, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 5:SDA_5
+MOT1_PWM: J2.OUT_S1 J3.SIG
+  # J2 PM07 power module + PDB (Holybro SKU 15008) S1_OUT_S1, J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A SIG_SIG
+MOT2_PWM: J2.OUT_S2 J4.SIG
+  # J2 PM07 power module + PDB (Holybro SKU 15008) S2_OUT_S2, J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A SIG_SIG
+MOT3_PWM: J2.OUT_S3 J5.SIG
+  # J2 PM07 power module + PDB (Holybro SKU 15008) S3_OUT_S3, J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A SIG_SIG
+MOT4_PWM: J2.OUT_S4 J6.SIG
+  # J2 PM07 power module + PDB (Holybro SKU 15008) S4_OUT_S4, J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A SIG_SIG
+SAFETY_3V3: J11.GPS1_8 J12.8
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 8:IO_VDD_3V3_GPS1_8, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 8:VDD_3V3(V1)_8
+SAFETY_LED: J11.GPS1_7 J12.7
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 7:SAFETY_SWITCH_LED_GPS1_7, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 7:SAFETY_SWITCH_LED(V1)_7
+SAFETY_SW: J11.GPS1_6 J12.6
+  # J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 6:SAFETY_SWITCH_GPS1_6, J12 GPS + compass: Holybro M10, IST8310, 10-pin (SKU 12040) 6:SAFETY_SWITCH(V1)_6
+SERVO_RAIL: J2.FIN_V J11.FMU_1
+  # J2 PM07 power module + PDB (Holybro SKU 15008) VSERVO_FIN_V, J11 Pixhawk 6C, plastic (Holybro SKU 11054), ArduPilot 1:VDD_Servo_FMU_1
+VBAT_ESC: J2.BP J3.VP J4.VP J5.VP J6.VP
+  # J2 PM07 power module + PDB (Holybro SKU 15008) B+_BP, J3 ESC 1 / AUX 1 / CCW: XRotor PRO 50A V+_VP, J4 ESC 2 / AUX 2 / CCW: XRotor PRO 50A V+_VP, J5 ESC 3 / AUX 3 / CW: XRotor PRO 50A V+_VP, J6 ESC 4 / AUX 4 / CW: XRotor PRO 50A V+_VP
